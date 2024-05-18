@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **engaymanvip@gmail.com**
 
+- <p align="center"><img src="https://media.licdn.com/dms/image/D5616AQFWj4Bwv8HqZw/profile-displaybackgroundimage-shrink_350_1400/0/1715631875913?e=1721260800&amp;v=beta&amp;t=qGQ2oLz-Ma9muJaCsmYkmAsGirhHA-VoyibJ2GG1Owg" alt="project-image"></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/engayman2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engaymanvip" height="30" width="40" /></a>
