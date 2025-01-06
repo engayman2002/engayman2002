@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayman Mohamed Elashry</h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Embedded Systems Course**
+- 🌱 I’m currently learning **Backend (.NET)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/engayman2002](https://github.com/engayman2002)
 
